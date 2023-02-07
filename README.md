@@ -1,1 +1,1 @@
-    - [DEMO LINK](https://novytskyi-d.github.io/met-landing/)
+- [DEMO LINK](https://novytskyi-d.github.io/met-landing/)
