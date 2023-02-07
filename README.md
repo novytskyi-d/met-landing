@@ -5,10 +5,8 @@
 
 - [DEMO LINK](https://novytskyi-d.github.io/met-landing/)
 
-<h3>Description</h3>
-
-- User can add, delete and update ToDo
-
 <h3>Technologies</h3>
 
-- React, TypeScript, Fetch
+- HTML, SCSS, Flexbox
+
+- [FIGMA](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590%3A29)
