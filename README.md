@@ -7,7 +7,7 @@
 
 <h3>Description</h3>
 
-- User can add, delete or update ToDo
+- User can add, delete and update ToDo
 
 <h3>Technologies</h3>
 
